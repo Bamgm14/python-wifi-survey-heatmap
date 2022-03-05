@@ -1,4 +1,4 @@
-FROM debian:buster-20200720
+FROM debian:buster-20210721
 
 ARG build_date
 ARG repo_url
